@@ -4,7 +4,7 @@ export const Bio = {
   description:
     "I am a dynamic and adaptable professional, continuously driven by the pursuit of new challenges. My journey is marked by the creation of industry-grade projects from inception, showcasing a diverse arsenal of technological skills that power innovation. Curious to witness my prowess in action? Explore my impressive portfolio below. With contagious positivity and an unwavering growth mindset, I'm poised to make a significant impact and achieve extraordinary milestones.",
   github: "https://github.com/Sivapriya2",
-  resume: "https://raw.githubusercontent.com/Sivapriya2/images/main/P.Sivapriya.pdf",
+  resume: "https://pdflink.to/f67ada99/",
   linkedin: "https://www.linkedin.com/in/sivapriya-p-4a779a221/",
   twitter: "",
   insta: "",
